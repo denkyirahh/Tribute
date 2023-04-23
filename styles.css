@@ -1,0 +1,50 @@
+html {
+  box-sizing: border-box;
+}
+
+body{
+font-family: sans-serif;
+}
+
+#main{
+
+}
+
+#title{
+  font-family:Garamond;
+  min-width:10rem;
+  max-width:100%;
+  text-align:center;
+  margin: 0 auto;
+  padding: 1.5rem;
+}
+
+#img-div{
+  border:;
+}
+
+#image{
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width:100%;
+  height:auto;
+  border-radius:50px;
+}
+
+#img-caption{
+  font-family:Times;
+  text-align:center;
+}
+
+#tribute-info{
+  text-align:center;
+}
+
+#church{
+  text-align:center;
+}
+
+#tribute-link{
+  
+}
